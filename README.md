@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📧 tndus970120@naver.com
+📧 suyeon_choi@kakao.com
 <br>
 
 ![SuyeonChoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuyeonChoi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
